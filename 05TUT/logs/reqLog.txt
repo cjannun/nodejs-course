@@ -1,0 +1,4 @@
+20221110	16:03:21	a389c303-924d-488a-adab-c746346bcdf0	/new-page.html	GET
+20221110	16:03:21	0f7ab25d-ce42-4e47-8fe4-8aa593c4ae6d	/css/style.css	GET
+20221110	16:03:21	d1224f6b-272f-4f2c-9f0b-60bc5f8d6a95	/img/img1.jpg	GET
+20221110	16:03:21	fc398d4b-4807-4ff1-b2a6-36913b752502	/favicon.ico	GET
