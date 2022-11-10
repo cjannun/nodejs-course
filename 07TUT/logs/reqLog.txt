@@ -1,0 +1,28 @@
+20221110	16:03:21	a389c303-924d-488a-adab-c746346bcdf0	/new-page.html	GET
+20221110	16:03:21	0f7ab25d-ce42-4e47-8fe4-8aa593c4ae6d	/css/style.css	GET
+20221110	16:03:21	d1224f6b-272f-4f2c-9f0b-60bc5f8d6a95	/img/img1.jpg	GET
+20221110	16:03:21	fc398d4b-4807-4ff1-b2a6-36913b752502	/favicon.ico	GET
+20221110	16:41:24	51b97308-3958-4c20-b2e2-857c5308e167	GET	undefined	/css/style.css
+20221110	16:41:26	0b0c4e5e-68b2-4f93-8cad-646e9f0359fd	GET	undefined	/
+20221110	16:41:26	822738bd-8c59-4210-bede-8dcb30a7cedf	GET	undefined	/css/style.css
+20221110	16:43:24	18f40669-7166-4799-bf65-50715121a503	GET	undefined	/
+20221110	16:43:24	d12f0ac5-ef12-421a-a1c5-0f8850c35255	GET	undefined	/css/style.css
+20221110	16:47:05	dedd7813-9f35-4e3c-bbc9-d0981de8c236	GET	chrome-untrusted://new-tab-page	/
+20221110	16:47:16	3c5dfbf9-b0f2-4b4a-8dff-655adbbc8e9c	GET	chrome-untrusted://new-tab-page	/
+20221110	16:51:00	ee7a4bc7-4be4-4ad0-9327-a36507dc4c2b	GET	chrome-untrusted://new-tab-page	/
+20221110	16:51:10	f22c3483-db8d-4990-92ce-7ab026b4537d	GET	chrome-untrusted://new-tab-page	/
+20221110	16:51:32	fb81910b-59a4-48ca-ad96-ae6a2f99ca6a	GET	chrome-untrusted://new-tab-page	/
+20221110	16:51:45	768107b3-bbdd-40e4-9bc6-2a5a4b72b5d0	OPTIONS	https://www.google.com	/
+20221110	16:51:45	51b3778a-eab7-4445-ab47-f6f18613023a	GET	https://www.google.com	/
+20221110	16:54:03	122614c4-0914-412f-ab23-6ac224a273f1	GET	undefined	/
+20221110	16:54:55	4d66f4bf-f8b3-4b11-a27a-ceda53be90de	GET	undefined	/
+20221110	16:54:55	9e952aad-a972-43c1-9c49-d6545aed1eb0	GET	undefined	/css/style.css
+20221110	16:59:16	f380b6fd-c088-45cd-b1e1-1ce6d2a10ccb	GET	undefined	/
+20221110	16:59:54	4703dd54-3573-42eb-a26d-c90fb2b80d7a	GET	undefined	/
+20221110	16:59:54	aafff9ed-de94-418c-9ea6-0265b4c6e855	GET	undefined	/css/style.css
+20221110	17:01:06	65987e56-a8ff-443c-98e8-2ee33e5bd7a1	GET	undefined	/
+20221110	17:01:06	fd70905b-7f2c-43aa-ac03-529d2a3247ad	GET	undefined	/css/style.css
+20221110	17:01:13	a8b95ce4-7f6a-4f90-9454-938bd0172400	GET	undefined	/cj
+20221110	17:01:13	87fa2663-0499-42de-b964-a37f787bc108	GET	undefined	/css/style.css
+20221110	17:03:54	e6a65788-8255-4180-8943-0481540e41c7	GET	undefined	/cj
+20221110	17:03:54	3a04dee9-2c81-400d-8f1a-413fb770604e	GET	undefined	/css/style.css
