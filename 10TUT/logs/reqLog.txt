@@ -1,0 +1,51 @@
+20221110	16:03:21	a389c303-924d-488a-adab-c746346bcdf0	/new-page.html	GET
+20221110	16:03:21	0f7ab25d-ce42-4e47-8fe4-8aa593c4ae6d	/css/style.css	GET
+20221110	16:03:21	d1224f6b-272f-4f2c-9f0b-60bc5f8d6a95	/img/img1.jpg	GET
+20221110	16:03:21	fc398d4b-4807-4ff1-b2a6-36913b752502	/favicon.ico	GET
+20221110	16:41:24	51b97308-3958-4c20-b2e2-857c5308e167	GET	undefined	/css/style.css
+20221110	16:41:26	0b0c4e5e-68b2-4f93-8cad-646e9f0359fd	GET	undefined	/
+20221110	16:41:26	822738bd-8c59-4210-bede-8dcb30a7cedf	GET	undefined	/css/style.css
+20221110	16:43:24	18f40669-7166-4799-bf65-50715121a503	GET	undefined	/
+20221110	16:43:24	d12f0ac5-ef12-421a-a1c5-0f8850c35255	GET	undefined	/css/style.css
+20221110	16:47:05	dedd7813-9f35-4e3c-bbc9-d0981de8c236	GET	chrome-untrusted://new-tab-page	/
+20221110	16:47:16	3c5dfbf9-b0f2-4b4a-8dff-655adbbc8e9c	GET	chrome-untrusted://new-tab-page	/
+20221110	16:51:00	ee7a4bc7-4be4-4ad0-9327-a36507dc4c2b	GET	chrome-untrusted://new-tab-page	/
+20221110	16:51:10	f22c3483-db8d-4990-92ce-7ab026b4537d	GET	chrome-untrusted://new-tab-page	/
+20221110	16:51:32	fb81910b-59a4-48ca-ad96-ae6a2f99ca6a	GET	chrome-untrusted://new-tab-page	/
+20221110	16:51:45	768107b3-bbdd-40e4-9bc6-2a5a4b72b5d0	OPTIONS	https://www.google.com	/
+20221110	16:51:45	51b3778a-eab7-4445-ab47-f6f18613023a	GET	https://www.google.com	/
+20221110	16:54:03	122614c4-0914-412f-ab23-6ac224a273f1	GET	undefined	/
+20221110	16:54:55	4d66f4bf-f8b3-4b11-a27a-ceda53be90de	GET	undefined	/
+20221110	16:54:55	9e952aad-a972-43c1-9c49-d6545aed1eb0	GET	undefined	/css/style.css
+20221110	16:59:16	f380b6fd-c088-45cd-b1e1-1ce6d2a10ccb	GET	undefined	/
+20221110	16:59:54	4703dd54-3573-42eb-a26d-c90fb2b80d7a	GET	undefined	/
+20221110	16:59:54	aafff9ed-de94-418c-9ea6-0265b4c6e855	GET	undefined	/css/style.css
+20221110	17:01:06	65987e56-a8ff-443c-98e8-2ee33e5bd7a1	GET	undefined	/
+20221110	17:01:06	fd70905b-7f2c-43aa-ac03-529d2a3247ad	GET	undefined	/css/style.css
+20221110	17:01:13	a8b95ce4-7f6a-4f90-9454-938bd0172400	GET	undefined	/cj
+20221110	17:01:13	87fa2663-0499-42de-b964-a37f787bc108	GET	undefined	/css/style.css
+20221110	17:03:54	e6a65788-8255-4180-8943-0481540e41c7	GET	undefined	/cj
+20221110	17:03:54	3a04dee9-2c81-400d-8f1a-413fb770604e	GET	undefined	/css/style.css
+20221110	17:46:28	9a66f1b9-96cd-4816-b1e1-1663ef44816f	GET	undefined	/
+20221110	17:46:28	e324955f-fd37-402d-9df4-901bccf03001	GET	undefined	/css/style.css
+20221110	17:46:35	27b63b44-436a-4b84-90c9-054a3a70ae54	GET	undefined	/subdir
+20221110	17:46:43	ff6a0181-6fca-47c3-891a-a15d95f11f14	GET	undefined	/subdir/test
+20221110	17:46:52	4f0b07c2-d5ff-469c-b22b-753d7b20240e	GET	undefined	/subdir/cj
+20221110	17:46:52	107288ea-6a92-42f2-b4a8-3c7ce1c74899	GET	undefined	/subdir/css/style.css
+20221110	17:47:16	02a89d5b-22b9-4e0f-a56a-5aaa6ec3f443	GET	undefined	/cj
+20221110	17:47:16	17a14129-aa1c-432d-ad65-b826fab77134	GET	undefined	/css/style.css
+20221110	17:47:20	4e808baf-7f7a-4154-b1c7-a06fc7194d95	GET	undefined	/subdir/cj
+20221110	17:47:20	17564785-4afd-40b9-9833-f18b941ce2fa	GET	undefined	/subdir/css/style.css
+20221110	17:48:14	8d04e099-7a95-493b-bc31-94ef1d2473c1	GET	undefined	/subdir/cj
+20221110	17:48:14	2423a4dc-dc7c-463f-8421-5360289220b4	GET	undefined	/subdir/css/style.css
+20221110	17:50:11	1eabff47-27b2-46c0-a21e-20904cd82a6c	GET	undefined	/subdir/cj
+20221110	17:50:11	9af697a3-28bf-47e5-a993-252b6aeeed73	GET	undefined	/subdir/css/style.css
+20221110	18:00:39	7a93e6b0-f0c3-4742-8c84-5a5b90c9051f	GET	undefined	/new-page.html
+20221110	18:00:39	4c74ff8c-8762-41c7-850b-2efec31c0bfd	GET	undefined	/css/style.css
+20221110	18:00:39	28306a77-4c03-4a02-90f3-52ac2d8c7de3	GET	undefined	/img/img1.jpg
+20221110	18:00:43	cd22c5ca-b4ea-42a7-afcb-d57f7abc04b1	GET	undefined	/new-page.html
+20221110	18:00:43	eca2f60d-c29c-45c6-b51f-eac5abf4a8de	GET	undefined	/css/style.css
+20221110	18:00:43	80799208-ccf7-4fef-9f1b-8db52059bcd2	GET	undefined	/img/img1.jpg
+20221110	18:00:49	d757957d-3e33-4a5c-a928-2d09e9ebc7cf	GET	undefined	/index
+20221110	18:00:49	7980d903-7943-4dd4-8da8-f23c2f796583	GET	undefined	/css/style.css
+20221110	18:11:25	167f9049-2391-4a8e-b374-058106e5f152	POST	undefined	/employees
